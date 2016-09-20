@@ -1,0 +1,112 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Tarea2Aplicada.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Mi primera Pagina Web</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            height: 23px;
+        }
+        .auto-style2 {
+            width: 100%;
+        }
+        .auto-style3 {
+            width: 76px;
+        }
+        .auto-style4 {
+            height: 23px;
+            width: 76px;
+        }
+        .auto-style5 {
+            font-size: xx-large;
+            color: #000099;
+        }
+        .auto-style6 {
+            width: 187px;
+        }
+        .auto-style7 {
+            height: 23px;
+            width: 187px;
+        }
+        .auto-style8 {
+            margin-left: 72px;
+        }
+    </style>
+</head>
+
+<body>
+    <body bgColor = "snow">
+    <form id="form1" runat="server">
+    <div>
+
+        <ul>
+            <li><a href="WebFormMasterPag.aspx">Jquerry</a> </li>
+        </ul>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <table class="auto-style2">
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style6">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style6">&nbsp;</td>
+                <td class="auto-style5"><strong><em>&nbsp;Bienvenido a mi Primera Pagina Web.!!</em></strong></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style6">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style4">&nbsp;</td>
+                <td class="auto-style7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
+                <td class="auto-style1">
+                    <asp:Button ID="ButJquery" runat="server" Text="Jquery" Width="104px" CssClass="auto-style8" OnClick="ButJquery_Click" />
+                    <asp:Button ID="ButSession" runat="server" Text="Session" Width="104px" />
+                    <asp:Button ID="ButQuerystring" runat="server" Text="QueryString" Width="104px" />
+                    <asp:Button ID="ButCookies" runat="server" Text="Cookies" Width="104px" />
+                </td>
+                <td class="auto-style1"></td>
+                <td class="auto-style1"></td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style6">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style6">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style6">&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

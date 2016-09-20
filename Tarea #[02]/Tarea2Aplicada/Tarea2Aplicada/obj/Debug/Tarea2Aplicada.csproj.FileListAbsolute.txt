@@ -1,0 +1,6 @@
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea #[02]\Tarea2Aplicada\Tarea2Aplicada\bin\Tarea2Aplicada.dll.config
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea #[02]\Tarea2Aplicada\Tarea2Aplicada\bin\Tarea2Aplicada.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea #[02]\Tarea2Aplicada\Tarea2Aplicada\bin\Tarea2Aplicada.pdb
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea #[02]\Tarea2Aplicada\Tarea2Aplicada\obj\Debug\Tarea2Aplicada.csprojResolveAssemblyReference.cache
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea #[02]\Tarea2Aplicada\Tarea2Aplicada\obj\Debug\Tarea2Aplicada.dll
+C:\Users\juniorsantiago\Desktop\Aplicada\Tarea #[02]\Tarea2Aplicada\Tarea2Aplicada\obj\Debug\Tarea2Aplicada.pdb
